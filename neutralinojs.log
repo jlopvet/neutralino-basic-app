@@ -1,0 +1,2 @@
+INFO 2023-09-01 09:03:56,686 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Jules@DESKTOP-U5R6CHU
+ERROR 2023-09-01 09:03:59,142 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Jules@DESKTOP-U5R6CHU
